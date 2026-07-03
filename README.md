@@ -6,19 +6,19 @@ A portfolio of data science projects demonstrating proficiency in data wrangling
 
 ### Project 01 - Basic Data Cleaning Task
 
-A comprehensive data cleaning and exploratory analysis project on customer purchasing behavior. Processed a raw dataset with non-standard formatting, removed duplicate records, imputed missing values using domain-appropriate strategies, and standardized inconsistent data types. The analysis progressed through three complexity tiers—from basic distribution analysis of ordering patterns to advanced customer behavior segmentation—resulting in actionable insights about purchasing frequency, product popularity, and temporal trends.
+Cleaned and analyzed a customer dataset by handling formatting issues, removing duplicates, and imputing missing values using appropriate strategies. The project included exploratory analysis across three difficulty levels to uncover patterns in purchasing behavior and temporal trends.
 
 ### Project 02 - Advanced Data Cleaning & Analysis Pipeline
 
-Developed a production-grade data processing pipeline for handling complex nested data structures. This project showcases custom function design, sophisticated data validation workflows, and scalable cleaning procedures applicable to enterprise-level analytics. The implementation demonstrates advanced programming patterns including parameterized processing, reusable components, and comprehensive error handling for production environments.
+Developed a production-grade data processing pipeline using scalable functions to clean and validate complex nested data structures. The project demonstrates advanced programming patterns including parameterized processing and reusable components for enterprise-level analytics.
 
 ### Project 03 - Music Streaming Analysis
 
-Conducted statistical analysis on music streaming consumption patterns across geographic regions and time dimensions. This project involved data standardization, implicit duplicate detection and resolution, and custom cross-tabulation analysis. I validated hypotheses regarding user behavior variations by location and day-of-week through rigorous grouping, aggregation, and comparative analysis workflows.
+Analyzed music streaming consumption patterns across geographic regions and time periods to test hypotheses about user behavior variations. The work included data standardization, duplicate detection, and custom analysis to compare activity patterns by location and day.
 
 ### Project 04 - Instacart Data Wrangling and Analysis
 
-Performed end-to-end analysis of grocery delivery customer behavior using a large-scale e-commerce dataset. The work encompassed data quality assessment, systematic preprocessing of five interconnected data sources, and multi-dimensional exploratory analysis ranging from temporal patterns to product-level reorder metrics. I delivered publication-ready visualizations and comprehensive findings on customer purchasing behavior and product demand patterns.
+Performed comprehensive analysis on grocery delivery customer behavior using a large-scale e-commerce dataset. The project involved preprocessing five interconnected data sources and delivering insights on customer purchasing patterns, product demand, and reorder behavior through exploratory analysis and visualizations.
 
 ---
 
