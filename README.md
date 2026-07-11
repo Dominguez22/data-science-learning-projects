@@ -20,12 +20,15 @@ Analyzed music streaming consumption patterns across geographic regions and time
 
 Performed comprehensive analysis on grocery delivery customer behavior using a large-scale e-commerce dataset. The project involved preprocessing five interconnected data sources and delivering insights on customer purchasing patterns, product demand, and reorder behavior through exploratory analysis and visualizations.
 
+### Project 05 - Megaline Telecom Plan Revenue Analysis
+Analyzed customer usage and revenue for Megaline's Surf and Ultimate prepaid plans using a sample of 500 customers. The project involved cleaning and combining five data sources, exploring call, message, and internet usage patterns, and applying statistical hypothesis testing to determine which plan generated higher average revenue.
+
 ---
 
 ## Technical Stack
 
 - **Language:** Python 3.x
-- **Libraries:** pandas, matplotlib, numpy
+- **Libraries:** pandas, matplotlib, numpy, seaborn, scipy
 - **Format:** Jupyter Notebooks
 
 ---
